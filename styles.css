@@ -3,8 +3,8 @@
 }
 
 header {    
-    background-color:  #c28943;
-    color: rgb(52, 48, 40);
+    background-color:  #002efa;
+    color: rgb(82, 57, 9);
     text-align: left;
     padding: 20px;
 }
@@ -14,7 +14,7 @@ nav {
     flex-wrap: wrap;
     justify-content: left;
     align-items: left;
-    background-color: #651111;
+    background-color: #c24343;
 }
 
 nav a {
@@ -26,7 +26,7 @@ nav a {
 }
 
 nav a:hover {
-    background-color: #b28b17;
+    background-color: #a0c8f7;
     color: black;
 }
 
@@ -64,11 +64,11 @@ section {
 }
 
 .banaan a:hover {
-    color: #c6750c;
+    color: #1ee717;
 }
 
 .interest a:hover {
-    color: #c6750c;
+    color: #da76a5;
 }
 
 .gallery-image {
